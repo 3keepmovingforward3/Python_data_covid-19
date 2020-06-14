@@ -1,0 +1,10 @@
+name: Python_data_covid-19-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - requests
+  - simplejson
+  
