@@ -17,6 +17,7 @@ dependencies:
   - simplejson
   - go 
   - rise
+  - pip
   - pip:
     - bash_kernel
     - jupyterlab_latex
