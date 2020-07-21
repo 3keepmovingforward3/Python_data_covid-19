@@ -15,6 +15,7 @@ dependencies:
   - jupyterlab>=0.33
   - geopandas
   - simplejson
+  - seaborn
   - go 
   - rise
   - pip
